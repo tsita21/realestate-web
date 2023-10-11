@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import contactus from './components/contactus.js';
+import Contactus from './components/contactus.js';
 
 function App() {
   return (
     <div>
-      <cuntactus/>
+      <Contactus/>
     </div>
   );
 }
