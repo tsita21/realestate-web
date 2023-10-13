@@ -1,3 +1,4 @@
+import './contactus.css';
 import React, {useState} from "react";
 import call_icon from '../components/image/call.png';
 import envelope_icon from '../components/image/envelope.png';
